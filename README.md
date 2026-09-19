@@ -17,12 +17,12 @@
 
 - 🔧 通信工程专业大二学生，正在打软硬件的地基
 - 🌱 目前在学习网络、信号与系统，同时折腾自己的开源小项目
-- 📦 个人主页：[developerye.github.io](https://developerye.github.io)
+- 📦 个人主页：[developerye.github.io](https://developerye.github.io) · [作品集](https://developerye.github.io/projects)
 - 💬 想聊聊技术或者想法？随时欢迎
 
 ### Currently
 
-- 搭建并维护我的第一个开源作品（Astro 个人网站）
+- 搭建并维护我的第一个开源作品：[Astro 个人网站](https://developerye.github.io)，带作品集页
 - 探索将通信的理论知识落地成可跑起来的代码
 
 ### Reach me
